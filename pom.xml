@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.savan</groupId>
-	<artifactId>EmployeeManager</artifactId>
+	<artifactId>EmployeeManager-SpringSecurity-Oauth2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>EmployeeManager</name>
+	<name>EmployeeManager-SpringSecurity-Oauth2</name>
 	<description>EmployeeManager project using Spring Boot</description>
 
 	<properties>
